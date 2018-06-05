@@ -18,6 +18,6 @@ The below commands will download the project, and setup tmux.
 operating system.
 
 ``` bash
-$ git clone git@github.com:rdegges/dot-tmux.git ~/.tmux
+$ git clone https://github.com/bafeigum/dot-tmux.git ~/.tmux
 $ ln -s ~/.tmux/tmux.conf ~/.tmux.conf
 ```
